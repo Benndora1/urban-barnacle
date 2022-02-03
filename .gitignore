@@ -1,6 +1,14 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
+.coverage*
+staticfiles
+mediafiles
+client/node_modules
+
+
+
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
